@@ -28,4 +28,15 @@ people in front of it.
 1. According predicted position of person in front of tablet's camera show picture on tablet's display.
 
 ### Deployment
-1. 
+1. Make web service. (Maybe in future make android app).
+
+
+## Run this code
+Create virtual environment:
+``` bash
+>> python3 -m venv  /path/to/venv
+```
+Activate:
+``` bash
+>> activate /path/to/venv/bin/activate
+```
